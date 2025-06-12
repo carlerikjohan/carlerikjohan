@@ -1,16 +1,12 @@
 # Hej, my name is Johan 👋
 
-I am a software freelancer based in Sweden, passionate about 
-accessability (a11y), security, and creating delightful user 
-experiences.
+ I am a software engineer and enthusiast based in Sweden, passionate about accessability (a11y), security, and creating delightful user experiences.
 
-I have experience working across frontend, backend, devops, and mobile 
-apps, supporting diverse users such as newspaper readers, healthcare 
-professionals, job seekers, HR teams, among others.
+Ever since I coded my first progress bar with my dad at the age of eight, I've been fascinated by how systems work across all domains, from programming and music to business needs and everyday problems.
 
-I'm always excited to make a meaningful impact, help even more people, 
-and solve challenges while hopefully learning something new along the 
-way.
+I enjoy solving problems from start to finish: communicating with people, understanding root causes, finding the right tools and approaches, and ultimately delivering value to employees and users alike.
+
+I'm always excited to make a meaningful impact, help even more people, and solve challenges while hopefully learning something new along the way.
 
 Have a project in mind or just want to reach out to say hi?
 
