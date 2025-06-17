@@ -7,4 +7,4 @@ music occasionally.
  
 Have a project in mind or just want to reach out to say hi?
 
-Contact me at [me@carlerikjohan.com](mailto:hello@carlerikjohan.com)!
+Contact me at [hello@carlerikjohan.com](mailto:hello@carlerikjohan.com)!
