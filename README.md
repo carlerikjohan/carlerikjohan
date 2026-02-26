@@ -1,9 +1,8 @@
 # Hej, my name is Johan 👋
+ I am a software freelancer currently living in Sweden. See what I am doing [now](https://carlerikjohan.com/now/).
 
-I am a software freelancer currently living in Sweden. I am passionate about accessibility, security, and learning new things.
+My father introduced me to programming at the age of seven, and I have pursued it as a hobby ever since, and professionally for the last seven years.
 
-My father introduced me to programming at the age of seven, and I have pursued it as a hobby ever since, and professionally for the last seven years. 
- 
-Have a project in mind or just want to reach out to say hi?
+In that time, I have improved accessibility for over 100,000 healthcare professionals, built a single sign on solution supporting 150,000 digital newspaper subscribers, and taught colleagues about web development best practices. 
 
-Contact me at [hello@carlerikjohan.com](mailto:hello@carlerikjohan.com)!
+Want help with any cool ideas? Contact me at [hello@carlerikjohan.com](mailto:hello@carlerikjohan.com)!
